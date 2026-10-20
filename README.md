@@ -2,7 +2,7 @@
 
 ICT graduate and final-year Advanced Diploma in ICT student at DUT, moving into data analytics. I build database-driven web apps in C#/ASP.NET and analyse data with SQL, Power BI and Python.
 
-Currently on the CAPACITI Demand 2 programme in Johannesburg, working on AI, software and data projects.
+Currently on the CAPACITI Demand 2, 12 months Work Simulation programme in Johannesburg, working on Professional Development, AI, software and data projects.
 
 ## Featured Projects
 
